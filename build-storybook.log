@@ -1,7 +1,7 @@
 info @storybook/react v6.4.19
 info 
-info => Cleaning outputDir: C:\Users\H\AppData\Local\Temp\chromatic--8544-7VB1MWpUNkrh
-(node:12540) DeprecationWarning: --static-dir CLI flag is deprecated, see:
+info => Cleaning outputDir: C:\Users\H\AppData\Local\Temp\chromatic--26356-JTeZdnudM1VI
+(node:24784) DeprecationWarning: --static-dir CLI flag is deprecated, see:
 
 https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#deprecated---static-dir-cli-flag
 (Use `node --trace-deprecation ...` to show where the warning was created)
@@ -137,47 +137,47 @@ info => Using default Webpack5 setup
 <s> [webpack.Progress] 10% building import loader ./node_modules/babel-loader/lib/index.js
 <s> [webpack.Progress] 10% building import loader ./node_modules/source-map-loader/dist/cjs.js
 <s> [webpack.Progress] 10% building 0/16 entries 19/21 dependencies 0/18 modules
-<s> [webpack.Progress] 10% building 0/16 entries 34/100 dependencies 1/31 modules
+<s> [webpack.Progress] 10% building 0/16 entries 48/117 dependencies 2/42 modules
 <s> [webpack.Progress] 10% building import loader ./node_modules/@mdx-js/loader/index.js
-<s> [webpack.Progress] 10% building 0/16 entries 87/173 dependencies 3/66 modules
+<s> [webpack.Progress] 10% building 0/16 entries 104/188 dependencies 3/68 modules
 <s> [webpack.Progress] 10% building import loader ./node_modules/@storybook/source-loader/dist/cjs/index.js
-<s> [webpack.Progress] 10% building 0/16 entries 106/173 dependencies 3/70 modules
-<s> [webpack.Progress] 10% building 0/16 entries 147/200 dependencies 3/86 modules
+<s> [webpack.Progress] 10% building 0/16 entries 116/188 dependencies 3/78 modules
+<s> [webpack.Progress] 10% building 0/16 entries 158/200 dependencies 3/87 modules
 <s> [webpack.Progress] 10% building import loader ./node_modules/mini-css-extract-plugin/dist/loader.js
 <s> [webpack.Progress] 10% building import loader ./node_modules/react-scripts/node_modules/css-loader/dist/cjs.js
 <s> [webpack.Progress] 10% building import loader ./node_modules/postcss-loader/dist/cjs.js
-<s> [webpack.Progress] 10% building 0/16 entries 409/486 dependencies 5/192 modules
-<s> [webpack.Progress] 10% building 0/16 entries 699/800 dependencies 30/292 modules
-<s> [webpack.Progress] 10% building 0/16 entries 794/1007 dependencies 35/300 modules
-<s> [webpack.Progress] 13% building 1/16 entries 812/1020 dependencies 44/300 modules
+<s> [webpack.Progress] 10% building 0/16 entries 438/520 dependencies 5/202 modules
+<s> [webpack.Progress] 10% building 0/16 entries 727/800 dependencies 32/297 modules
+<s> [webpack.Progress] 10% building 0/16 entries 838/1000 dependencies 41/303 modules
+<s> [webpack.Progress] 13% building 1/16 entries 853/1035 dependencies 49/303 modules
 <s> [webpack.Progress] 13% building import loader ./node_modules/@svgr/webpack/lib/index.js
 <s> [webpack.Progress] 13% building import loader ./node_modules/file-loader/dist/cjs.js
-<s> [webpack.Progress] 13% building 1/16 entries 996/1037 dependencies 73/331 modules
-<s> [webpack.Progress] 13% building 1/16 entries 1413/1436 dependencies 105/400 modules
-<s> [webpack.Progress] 13% building 1/16 entries 1703/1800 dependencies 217/434 modules
-<s> [webpack.Progress] 13% building 1/16 entries 2074/2117 dependencies 271/500 modules
-<s> [webpack.Progress] 13% building 1/16 entries 2500/2610 dependencies 352/554 modules
-<s> [webpack.Progress] 14% building 1/16 entries 2846/2900 dependencies 405/651 modules
-<s> [webpack.Progress] 14% building 1/16 entries 3099/3259 dependencies 443/700 modules
-<s> [webpack.Progress] 15% building 1/16 entries 3500/3582 dependencies 507/797 modules
-<s> [webpack.Progress] 16% building 1/16 entries 3700/3750 dependencies 550/901 modules
-<s> [webpack.Progress] 17% building 1/16 entries 4040/4079 dependencies 646/1000 modules
-<s> [webpack.Progress] 18% building 1/16 entries 4445/4492 dependencies 800/1122 modules
-<s> [webpack.Progress] 20% building 1/16 entries 5000/5064 dependencies 978/1321 modules
-<s> [webpack.Progress] 24% building 2/16 entries 5407/5478 dependencies 1293/1438 modules
-<s> [webpack.Progress] 24% building 3/16 entries 5407/5478 dependencies 1294/1438 modules
-<s> [webpack.Progress] 24% building 4/16 entries 5407/5478 dependencies 1295/1438 modules
-<s> [webpack.Progress] 27% building 5/16 entries 5407/5478 dependencies 1296/1438 modules
-<s> [webpack.Progress] 30% building 6/16 entries 5407/5478 dependencies 1297/1438 modules
-<s> [webpack.Progress] 34% building 7/16 entries 5407/5478 dependencies 1298/1438 modules
-<s> [webpack.Progress] 37% building 8/16 entries 5407/5478 dependencies 1299/1438 modules
-<s> [webpack.Progress] 40% building 9/16 entries 5407/5478 dependencies 1300/1438 modules
-<s> [webpack.Progress] 44% building 10/16 entries 5407/5478 dependencies 1301/1438 modules
-<s> [webpack.Progress] 47% building 11/16 entries 5407/5478 dependencies 1302/1438 modules
-<s> [webpack.Progress] 51% building 12/16 entries 5407/5478 dependencies 1303/1438 modules
-<s> [webpack.Progress] 54% building 13/16 entries 5809/5815 dependencies 1473/1505 modules
-<s> [webpack.Progress] 54% building 13/16 entries 5841/5841 dependencies 1500/1518 modules
-<s> [webpack.Progress] 58% building 14/16 entries 5841/5841 dependencies 1502/1518 modules
+<s> [webpack.Progress] 13% building 1/16 entries 1021/1046 dependencies 66/348 modules
+<s> [webpack.Progress] 13% building 1/16 entries 1500/1536 dependencies 135/402 modules
+<s> [webpack.Progress] 13% building 1/16 entries 1768/2000 dependencies 240/438 modules
+<s> [webpack.Progress] 13% building 1/16 entries 2000/2148 dependencies 271/462 modules
+<s> [webpack.Progress] 13% building 1/16 entries 2445/2500 dependencies 346/557 modules
+<s> [webpack.Progress] 14% building 1/16 entries 2868/2980 dependencies 400/639 modules
+<s> [webpack.Progress] 14% building 1/16 entries 3100/3275 dependencies 437/708 modules
+<s> [webpack.Progress] 15% building 1/16 entries 3431/3500 dependencies 499/760 modules
+<s> [webpack.Progress] 15% building 1/16 entries 3695/3739 dependencies 544/900 modules
+<s> [webpack.Progress] 16% building 1/16 entries 4020/4054 dependencies 616/1000 modules
+<s> [webpack.Progress] 17% building 1/16 entries 4085/4200 dependencies 655/1023 modules
+<s> [webpack.Progress] 19% building 1/16 entries 4526/4600 dependencies 822/1136 modules
+<s> [webpack.Progress] 20% building 2/16 entries 4794/5046 dependencies 940/1182 modules
+<s> [webpack.Progress] 20% building 3/16 entries 4794/5046 dependencies 941/1182 modules
+<s> [webpack.Progress] 23% building 4/16 entries 4794/5046 dependencies 942/1182 modules
+<s> [webpack.Progress] 27% building 5/16 entries 4794/5046 dependencies 943/1182 modules
+<s> [webpack.Progress] 30% building 6/16 entries 4794/5046 dependencies 944/1182 modules
+<s> [webpack.Progress] 34% building 7/16 entries 4794/5046 dependencies 945/1182 modules
+<s> [webpack.Progress] 37% building 8/16 entries 4794/5046 dependencies 946/1182 modules
+<s> [webpack.Progress] 40% building 9/16 entries 4794/5046 dependencies 947/1182 modules
+<s> [webpack.Progress] 44% building 10/16 entries 4794/5046 dependencies 948/1182 modules
+<s> [webpack.Progress] 47% building 11/16 entries 4794/5046 dependencies 949/1182 modules
+<s> [webpack.Progress] 51% building 12/16 entries 5288/5311 dependencies 1262/1410 modules
+<s> [webpack.Progress] 54% building 13/16 entries 5811/5815 dependencies 1473/1507 modules
+<s> [webpack.Progress] 54% building 13/16 entries 5848/5849 dependencies 1500/1521 modules
+<s> [webpack.Progress] 58% building 14/16 entries 5848/5849 dependencies 1502/1521 modules
 <s> [webpack.Progress] 61% building 15/16 entries 5851/5851 dependencies 1522/1523 modules
 <s> [webpack.Progress] 64% building 16/16 entries 5851/5851 dependencies 1523/1523 modules
 <s> [webpack.Progress] 65% building
@@ -255,6 +255,12 @@ info => Using default Webpack5 setup
 <s> [webpack.Progress] 84% sealing chunk id optimization
 <s> [webpack.Progress] 85% sealing after chunk id optimization
 <s> [webpack.Progress] 85% sealing after chunk id optimization
+<s> [webpack.Progress] 86% sealing record modules
+<s> [webpack.Progress] 86% sealing record modules RecordIdsPlugin
+<s> [webpack.Progress] 86% sealing record modules
+<s> [webpack.Progress] 86% sealing record chunks
+<s> [webpack.Progress] 86% sealing record chunks RecordIdsPlugin
+<s> [webpack.Progress] 86% sealing record chunks
 <s> [webpack.Progress] 87% sealing module hashing
 <s> [webpack.Progress] 87% sealing module hashing
 <s> [webpack.Progress] 87% sealing code generation
@@ -265,6 +271,8 @@ info => Using default Webpack5 setup
 <s> [webpack.Progress] 89% sealing hashing
 <s> [webpack.Progress] 89% sealing after hashing
 <s> [webpack.Progress] 89% sealing after hashing
+<s> [webpack.Progress] 90% sealing record hash
+<s> [webpack.Progress] 90% sealing record hash
 <s> [webpack.Progress] 91% sealing module assets processing
 <s> [webpack.Progress] 91% sealing module assets processing
 <s> [webpack.Progress] 91% sealing chunk assets processing
@@ -273,7 +281,7 @@ info => Using default Webpack5 setup
 <s> [webpack.Progress] 92% sealing asset processing ESLintWebpackPlugin_1
 <s> [webpack.Progress] 92% sealing asset processing PersistentChildCompilerSingletonPlugin
 <s> [webpack.Progress] 92% sealing asset processing TerserPlugin
-info => Manager built (29 s)
+info => Manager built (30 s)
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/main.2220d1d9.css generate SourceMap
@@ -332,56 +340,47 @@ info => Manager built (29 s)
 <s> [webpack.Progress] 92% sealing asset processing
 <s> [webpack.Progress] 93% sealing after asset optimization
 <s> [webpack.Progress] 93% sealing after asset optimization
+<s> [webpack.Progress] 93% sealing recording
+<s> [webpack.Progress] 93% sealing recording
 <s> [webpack.Progress] 94% sealing after seal
 <s> [webpack.Progress] 94% sealing after seal
+<s> [webpack.Progress] 95% emitting emit
+<s> [webpack.Progress] 95% emitting emit
+<s> [webpack.Progress] 98% emitting after emit
+<s> [webpack.Progress] 98% emitting after emit SizeLimitsPlugin
+<s> [webpack.Progress] 98% emitting after emit
 <s> [webpack.Progress] 99% done plugins
 <s> [webpack.Progress] 99% done plugins CaseSensitivePathsPlugin
 <s> [webpack.Progress] 99% done plugins ForkTsCheckerWebpackPlugin
 <s> [webpack.Progress] 99% done plugins
 <s> [webpack.Progress] 99% 
 
+<s> [webpack.Progress] 99% cache store build dependencies
+<s> [webpack.Progress] 99% cache store build dependencies
 <s> [webpack.Progress] 99% cache begin idle
 <s> [webpack.Progress] 99% cache begin idle
 <s> [webpack.Progress] 100% 
 
-ERR! => Failed to build the preview
-ERR! Failed to load config "airbnb" to extend from.
-ERR! Referenced from: C:\Users\H\Desktop\projects\reactProject\taskbox\.eslintrc.js
+info => Preview built (40 s)
+WARN 
+WARN src\components\InboxScreen\index.tsx
+WARN   Line 2:8:  'PropTypes' is defined but never used  @typescript-eslint/no-unused-vars
+WARN 
+WARN 
+WARN asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+WARN This can impact web performance.
+WARN Assets: 
+WARN   737.d04e5ee2.iframe.bundle.js (2.43 MiB)
+WARN entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
+WARN Entrypoints:
+WARN   main (2.5 MiB)
+WARN       runtime~main.c81bfeee.iframe.bundle.js
+WARN       737.d04e5ee2.iframe.bundle.js
+WARN       main.82e8ace0.iframe.bundle.js
+WARN       static/css/main.2fa0cb38.css
+WARN 
 <s> [webpack.Progress] 99% cache shutdown
 <s> [webpack.Progress] 99% cache shutdown
 <s> [webpack.Progress] 100% 
 
-ERR! Error: => Webpack failed, learn more with --debug-webpack
-ERR!     at C:\Users\H\Desktop\projects\reactProject\taskbox\node_modules\@storybook\builder-webpack5\dist\cjs\index.js:200:62
-ERR!     at C:\Users\H\Desktop\projects\reactProject\taskbox\node_modules\webpack\lib\HookWebpackError.js:68:3
-ERR!     at Hook.eval [as callAsync] (eval at create (C:\Users\H\Desktop\projects\reactProject\taskbox\node_modules\webpack\node_modules\tapable\lib\HookCodeFactory.js:33:10), <anonymous>:11:1)
-ERR!     at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (C:\Users\H\Desktop\projects\reactProject\taskbox\node_modules\webpack\node_modules\tapable\lib\Hook.js:18:14)
-ERR!     at Cache.shutdown (C:\Users\H\Desktop\projects\reactProject\taskbox\node_modules\webpack\lib\Cache.js:150:23)
-ERR!     at C:\Users\H\Desktop\projects\reactProject\taskbox\node_modules\webpack\lib\Compiler.js:1212:15
-ERR!     at Hook.eval [as callAsync] (eval at create (C:\Users\H\Desktop\projects\reactProject\taskbox\node_modules\webpack\node_modules\tapable\lib\HookCodeFactory.js:33:10), <anonymous>:6:1)
-ERR!     at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (C:\Users\H\Desktop\projects\reactProject\taskbox\node_modules\webpack\node_modules\tapable\lib\Hook.js:18:14)
-ERR!     at Compiler.close (C:\Users\H\Desktop\projects\reactProject\taskbox\node_modules\webpack\lib\Compiler.js:1205:23)
-ERR!     at C:\Users\H\Desktop\projects\reactProject\taskbox\node_modules\@storybook\builder-webpack5\dist\cjs\index.js:199:20
-ERR!     at finalCallback (C:\Users\H\Desktop\projects\reactProject\taskbox\node_modules\webpack\lib\Compiler.js:441:32)
-ERR!     at C:\Users\H\Desktop\projects\reactProject\taskbox\node_modules\webpack\lib\Compiler.js:458:13
-ERR!     at Hook.eval [as callAsync] (eval at create (C:\Users\H\Desktop\projects\reactProject\taskbox\node_modules\webpack\node_modules\tapable\lib\HookCodeFactory.js:33:10), <anonymous>:35:1)
-ERR!     at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (C:\Users\H\Desktop\projects\reactProject\taskbox\node_modules\webpack\node_modules\tapable\lib\Hook.js:18:14)
-ERR!     at onCompiled (C:\Users\H\Desktop\projects\reactProject\taskbox\node_modules\webpack\lib\Compiler.js:456:21)
-ERR!     at C:\Users\H\Desktop\projects\reactProject\taskbox\node_modules\webpack\lib\Compiler.js:1183:17
-ERR!  Error: => Webpack failed, learn more with --debug-webpack
-ERR!     at C:\Users\H\Desktop\projects\reactProject\taskbox\node_modules\@storybook\builder-webpack5\dist\cjs\index.js:200:62
-ERR!     at C:\Users\H\Desktop\projects\reactProject\taskbox\node_modules\webpack\lib\HookWebpackError.js:68:3
-ERR!     at Hook.eval [as callAsync] (eval at create (C:\Users\H\Desktop\projects\reactProject\taskbox\node_modules\webpack\node_modules\tapable\lib\HookCodeFactory.js:33:10), <anonymous>:11:1)
-ERR!     at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (C:\Users\H\Desktop\projects\reactProject\taskbox\node_modules\webpack\node_modules\tapable\lib\Hook.js:18:14)
-ERR!     at Cache.shutdown (C:\Users\H\Desktop\projects\reactProject\taskbox\node_modules\webpack\lib\Cache.js:150:23)
-ERR!     at C:\Users\H\Desktop\projects\reactProject\taskbox\node_modules\webpack\lib\Compiler.js:1212:15
-ERR!     at Hook.eval [as callAsync] (eval at create (C:\Users\H\Desktop\projects\reactProject\taskbox\node_modules\webpack\node_modules\tapable\lib\HookCodeFactory.js:33:10), <anonymous>:6:1)
-ERR!     at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (C:\Users\H\Desktop\projects\reactProject\taskbox\node_modules\webpack\node_modules\tapable\lib\Hook.js:18:14)
-ERR!     at Compiler.close (C:\Users\H\Desktop\projects\reactProject\taskbox\node_modules\webpack\lib\Compiler.js:1205:23)
-ERR!     at C:\Users\H\Desktop\projects\reactProject\taskbox\node_modules\@storybook\builder-webpack5\dist\cjs\index.js:199:20
-ERR!     at finalCallback (C:\Users\H\Desktop\projects\reactProject\taskbox\node_modules\webpack\lib\Compiler.js:441:32)
-ERR!     at C:\Users\H\Desktop\projects\reactProject\taskbox\node_modules\webpack\lib\Compiler.js:458:13
-ERR!     at Hook.eval [as callAsync] (eval at create (C:\Users\H\Desktop\projects\reactProject\taskbox\node_modules\webpack\node_modules\tapable\lib\HookCodeFactory.js:33:10), <anonymous>:35:1)
-ERR!     at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (C:\Users\H\Desktop\projects\reactProject\taskbox\node_modules\webpack\node_modules\tapable\lib\Hook.js:18:14)
-ERR!     at onCompiled (C:\Users\H\Desktop\projects\reactProject\taskbox\node_modules\webpack\lib\Compiler.js:456:21)
-ERR!     at C:\Users\H\Desktop\projects\reactProject\taskbox\node_modules\webpack\lib\Compiler.js:1183:17
+info => Output directory: C:\Users\H\AppData\Local\Temp\chromatic--26356-JTeZdnudM1VI
